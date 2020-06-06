@@ -1,2 +1,2 @@
 # Tencent
-About Tencent's develop files and tools
+About Tencent's projects
